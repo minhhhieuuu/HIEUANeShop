@@ -15,7 +15,7 @@ html {
 }
 
 .home {
-    min-width: 1200px;
+    min-width: 1500px;
 }
 
 /* ---------------------------- */
@@ -224,6 +224,9 @@ input {
 }
 
 /* PRODUCT ITEM */
+.home .content .products{
+    width: 1100px;
+}
 .home .content .products .item {
     width: 170px;
     height: 280px;
@@ -239,7 +242,7 @@ input {
 }
 
 .home .content .products .item img {
-    width: 95%;
+    width: 90%;
 
 }
 
